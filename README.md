@@ -83,12 +83,13 @@ By completing this project, you will get practical experience with:
 
 ```text
 .
+├── README.md
 ├── aws_infrastructure_architecture.png
 ├── main.tf
 ├── provider.tf
-├── variables.tf
 ├── userdata.sh
-└── userdata1.sh
+├── userdata1.sh
+└── variables.tf
 ```
 
 ### 📄 File Explanation
